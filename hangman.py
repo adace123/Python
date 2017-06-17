@@ -1,3 +1,5 @@
+import random
+
 def hangman():
     words = ["python", "java", "ruby", "javascript", "assembly"]
     choice = ""
