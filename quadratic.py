@@ -1,3 +1,5 @@
+import math
+
 class QuadraticEquation:
     def __init__(self,a,b,c):
         self.__a = a
